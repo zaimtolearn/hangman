@@ -16,7 +16,7 @@ This hangman is an open-source re-implementation of our classic childhood game, 
 * HangMan - The Arcade is capable of storing your highest score.
 * It uses common and flexible libraries such as iostream, fstream, ctime and cstdlib.
 * It is cross-compatible with most C++ IDEs.
-* 
+* It offers visual-based with monotone colour and no audio game bringing a nostalgic environment.
 
 ### How to play HangMan - The Arcade?
 Before running the program, it should be noted that HangMan - The Arcade requires (-std=c++11) flag to compile properly. To run the HangMan The Arcade, simply run the executable h and cpp files. Make sure to have the text file ready to fetch random words from the file.
@@ -32,7 +32,11 @@ The Linked List we used is to store 2 types of data which is boolean and charact
 The Stack are implemented for the use of displaying the HangMan whenever the player guessed a wrong character. The HangMan will be 'pop' 7 times until which the stack is empty. Then, the player loses.
 
 ### Screenshots of our game
-![ScreenShot of Game Menu]("C:\Users\zaimr\Downloads\MainMenu.jpeg")
+<img src="ScreenShots/MainMenu.svg">
+![ScreenShot]("ScreenShots/GuessingAttempt.svg")
+![ScreenShot]("ScreenShots/ScoresDisplayed.svg")
+![ScreenShot]("ScreenShots/DisplayRules.svg")
+![ScreenShot]("ScreenShots/ExitGame.svg")
 
 ### Game demo video
-
+* [Youtube Demo and Explanations](https://youtu.be/3v7DkxrtP-Y)
