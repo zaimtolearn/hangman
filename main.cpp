@@ -10,7 +10,7 @@ using namespace std;
 void saveScore(int round){
 	ofstream myfile;
 	int tempScore = 30*round;
-	myfile.open("scores.txt");
+	myfile.open("scores.txt", ofstream::app);
 	myfile << tempScore << endl;
 	myfile.close();
 }
