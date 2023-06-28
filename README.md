@@ -32,7 +32,7 @@ The Linked List we used is to store 2 types of data which is boolean and charact
 The Stack are implemented for the use of displaying the HangMan whenever the player guessed a wrong character. The HangMan will be 'pop' 7 times until which the stack is empty. Then, the player loses.
 
 ### Screenshots of our game
-
+![ScreenShot of Game Menu]("C:\Users\zaimr\Downloads\MainMenu.jpeg")
 
 ### Game demo video
 
