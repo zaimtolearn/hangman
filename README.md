@@ -32,11 +32,11 @@ The Linked List we used is to store 2 types of data which is boolean and charact
 The Stack are implemented for the use of displaying the HangMan whenever the player guessed a wrong character. The HangMan will be 'pop' 7 times until which the stack is empty. Then, the player loses.
 
 ### Screenshots of our game
-![ScreenShot](https://github.com/zaimtolearn/hangman/blob/main/ScreenShots/MainMenu.svg)
-![ScreenShot](https://github.com/zaimtolearn/hangman/blob/main/ScreenShots/GuessingAttempt.svg)
-![ScreenShot](https://github.com/zaimtolearn/hangman/blob/main/ScreenShots/ScoresDisplayed.svg)
-![ScreenShot](https://github.com/zaimtolearn/hangman/blob/main/ScreenShots/DisplayRules.svg)
-![ScreenShot](https://github.com/zaimtolearn/hangman/blob/main/ScreenShots/ExitGame.svg)
+![ScreenShot](https://github.com/zaimtolearn/hangman/blob/main/ScreenShots/MainMenu.jpeg)
+![ScreenShot](https://github.com/zaimtolearn/hangman/blob/main/ScreenShots/GuessingAttempt.jpeg)
+![ScreenShot](https://github.com/zaimtolearn/hangman/blob/main/ScreenShots/ScoresDisplayed.jpeg)
+![ScreenShot](https://github.com/zaimtolearn/hangman/blob/main/ScreenShots/DisplayRules.jpeg)
+![ScreenShot](https://github.com/zaimtolearn/hangman/blob/main/ScreenShots/ExitGame.jpeg)
 
 ### Game demo video
 * [Youtube Demo and Explanations](https://youtu.be/3v7DkxrtP-Y)
