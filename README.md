@@ -1,4 +1,4 @@
-# hangman
+# HangMan
 HangMan - The Arcade
 ### Table of Contents
 * [What is this?](https://github.com/zaimtolearn/hangman/blob/main/README.md#what-is-this)
