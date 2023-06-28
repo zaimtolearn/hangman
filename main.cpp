@@ -61,7 +61,7 @@ void playGame(int& round) {
     obj3.pushHangMan();
     word1=obj1.randomWord();
     cout << "Round: " << round++ << endl;
-    obj1.printWord(); ////////////////// remove later
+    //obj1.printWord(); ////////////////// remove later
     for(int i=0; i<word1.length(); i++) obj2.appendNode(word1.at(i));
     
     // Live Game code
