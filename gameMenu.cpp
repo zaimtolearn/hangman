@@ -1,7 +1,6 @@
 #include "gameMenu.h"
 #include <iostream>
 #include <string>
-#include <conio.h>
 
 using namespace std; 
 
@@ -59,5 +58,6 @@ void gameMenu::clearOutput(){
 int gameMenu::displayScore(int& score)
 {
 	cout << "Your most recent score is: " << score << endl;
+	return 0;
 }
 
